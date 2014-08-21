@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="128" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="street_tileset" tilewidth="16" tileheight="16">
+  <image source="street_tileset.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="tiles" tilewidth="32" tileheight="32">
+  <image source="tiles.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Background" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMAiDf1v4JDHLY6CVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX1/QEupkGH
+  </data>
+ </layer>
+ <layer name="Grass" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJzt1LERgCAUREEC+4MOtP8qJNYQxxPZ4M9GZPeoWymtX+WS7v0OLmt6f9Q/9U/9U//UP/VP/VP/1D/1T/1T/9Q/9U/9U//UP/VP/VP/1D/1T/1T/9Q/9U/9U//UP/VP/TO/P+qf+qf+qX/qn/qn/ql/6p/6p/6pf+qf+qf+qX/qn/qn/ql/6p/6p/6pf+qf+qf+qX/qn/qn/pnfH/VP/VP/1D/1T/1T/9Q/9U/9U//UP/VP/VP/1D/1T/1T/9Q/9U/9U//UP/VP/VP/1D+f6b8Nvuc3TO+Pc/bvH/iHo/u5XnrPfLd/zm16f9Q/9U/9U//UP/VP/VP/1D/1T/1T/9Q/9U/9U//UP/VP/VP/1D/1T/1T/9Q/9U/98+4JBFbhDw==
+  </data>
+ </layer>
+ <layer name="Street" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJzt2TlqVVEAxvGbpBS0V9egvboG7aNL0MTCAaJL0MTCAdQlaAIWzjtQE7AwTjtwKh0qP0iKx/UpyOWdw+H+Ah/h8c6vC5xw/l3358/T+a57lj3P1rON+SmH/vHDt+3f5/yH7GO2mW3xo/IrOX8pu5wtZcv8qPztnL+T3c1WszV+VL72/cPX9YsLw+4Pvh1/IWcvZuey8ws7n1ey09mZbClbzs5OfN8/z7frb2a3suvZjd3PL/J3cSW/r2ar2Vp2beL7/nm+Xf94ruueZA+zR3M7nz/F38t397P1bCN7MPF9/zzfrn+bvcveZNu7n/dkL2NeZZvZVvZ64vv+eb5d/zP70fv9K/sc8yX7mn3Lvk8597fffDt+2s/+/L94IDuY7c32/ef/n3zb/kjOH82OZYeyw/yo/GLOn8xOZcezE/yofO33Z977P+/9n9f/ef2fL+tr3z+8+5/X/3n9n9f/ef2f1/95/Z/X//nZ+tr9mdf/ef2f9/7Pe//ny/ra/ZnX/3n3P+/+5/V/fna+dn/m9X9e/+f1f17/5/V/Xv/n9X9e/+e9//Nlfe33Z17/5/V/3v3Pu//5sr6lfs0P87X7M6//8/o/r//z+j+v//P6P6//8/o/7/2fL+trvz/z+j+v//Puf979z5f1LfVrfpiv3Z95/Z/X/3n9n9f/ef2f1/95/Z/X/3nv/3xZX/v9mdf/ef2fd//z7n++rG+pX/PDfO3+zOv/vP7P6/+8/s/r/7z+z+v/vP7Pe//ny/ra78+8/s/r/7z7n3f/82V9S/2aH+Zr92de/+f1f17/5/V/Xv/n9X9e/+f1f977P1/W135/5vV/Xv/n3f+8+58v61vq1/wwX7s/8/o/r//z+j+v//P6P6//8/o/r//z3v/52fnfmmtqPA==
+  </data>
+ </layer>
+ <layer name="City" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJzt0dWNVQEARdE3HWCDdDEuXYxLFzB4F7h0gUsXMHgXuPyxm7i5hKyV7P+TnMkEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADGM1OzNVfztVCLtVTLtVKro61jaGu1Xhu1WVu1XTu1W3u1P9o6hna2ztVBna8LdbEu1eW6UldHW8fQrtX1ulE361bdrjt1t+7V/dHWMbQH9bAe1eN6Uk/rWT2vF/VytHUM7VW9rsN6U2/rXb2vD/WxPo22jqF9ri/1tb7V9/pRP+tX/a4/o61jaEemJpOjdayO14marpN1qk7XmamxVzKUmb6drbmar4VarKVarpVa9f9/a61v12ujNmurtmundmuv9v0PAAAAAPDP+Au2+C7h
+  </data>
+ </layer>
+</map>

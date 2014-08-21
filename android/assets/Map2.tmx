@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="50" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="street_tileset" tilewidth="16" tileheight="16">
+  <image source="street_tileset.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="tiles" tilewidth="16" tileheight="16">
+  <image source="tiles.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="2049" name="free_tileset_version_10" tilewidth="32" tileheight="32">
+  <image source="free_tileset_version_10.png" width="480" height="1216"/>
+ </tileset>
+ <tileset firstgid="2619" name="trees" tilewidth="16" tileheight="16">
+  <image source="trees.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Grass" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1DcNAwEQAMFvDMOBiAMRByIO0H0UvlqN9MUWQ2D3u2U5TMfpNO03r/J5ukzX6bZ5te/TY3pOr82r/Z4+03f6bV7t+h+663/orv+hu/6H7vofuut/6K7/obv+h+76H7rrf+iu/6G7/ofu+h+663/orv+hu/6H7vofuut/6K7/obv+h+76H7rrf+iu/6G7/ofu+h+663/orv+hu/6H7vofuut/6K7/obv+h+76H7rrf+iu/6G7/ofu+h+663/orv+hu/6H7vofuut/6K7/obv+h+76H7rrf+j+Aw/nBPw=
+  </data>
+ </layer>
+ <layer name="Streets" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2LdKREEAheHr2hp6n8HQ+wyu9j6DOWNpDqvbW5qzvaU52/sKZsFY+YPNBVfhssXhMHfgY2Cdv1qQ5UTR73OTiaILXOIK15kCj/45ofe7vN/EFraxk/aJjvr7c++/eH+HezzgMe0TnarSKCpDOSpQWZr2SU4976tRg1rUpX2i08z7BmTRiKa0//P08Lde9KEfAxhEC1rRhnZ0oBNd6I7dofdjGMcEJjGFaeQwg1nkMYRhjGA0dofeL2MFq1jDOjawiS1sYwfzWMAilmJ36P0RjnGCU5zhHBe4xBWusYd9HOAwdofev5ZE0Rve8YFP3PL5He7xgEc88/lTyc/9ErtD7wudKn4vNiCLRjQl/f0YeF/P+xa0og3taZ/oNPM+hxnMIp/2ic5gprj9IfR+LlPc/hB6r97P3Hv1fubeq/cz9169n7n36v3MvXfa39S9ej9z79X7mXuv3s/ce/V+5t6r9zP3vtBR72fuvXo/c+/V+5l7r97P3Hv1fubeq/cz9169n7n36v3MvVfvZ+69ej9z7532N3Wv3s/ce/V+5t6r9zP3Xr2fuffq/cy9L3TU+5l7r97P3Hv1fubeq/cz9169n7n36v8fTv03MU36Zg==
+  </data>
+ </layer>
+ <layer name="Trees" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2klKA0EUxvEH0Sy6SS7gsNF4iagXcbiIw0U0uUhiNg6XcNhocgkH/JaNUCRUl6lX8P/BB72rx6M2/VFm69Hpm20om0q3v6ZD//iszL6Ub+WnyjNDrD3tbF8ZKAeZ9rdVm20rO8punWcGAAAAoGT3PbMH5VF56uWexq/Qnt71/aHMlQX7Cwrtqe1/eQn3N8WMoT21/S8v4f6mmPG/+gsPvdIynmf00CstU8KMAAAAAAB4NqzNDpUj5TjDm45JZTZV7pTZim9yUsycqrc80fmnyplynmF/z9rZi/KqvK24vxQzp+otL3T+pXKlXGfYX8ybsNiZm3eu2Qm2uYs3Ov9WGSnjDPuLeRMWO3PzzjU7wRI6dA9CPbTnftqTUA9NPw0AAAAAAFC+Et45exbqaH8BoVFeBw==
+  </data>
+ </layer>
+ <layer name="City" width="80" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2NVNRVEQRuFzK8CtCtyqwK0K3KpAL1IFblXgVgVub6wC7iSQCcwemJV8LyeZ7PP857MsW8Eq1rCeFW4O81jAIpawjLyTe23S+3vYxwEOcSTcb2ATW9jGDnYd3WuT3r/EFa5xg1vh/hgnOMUZznHh6F6b9P4LXvGGd3wI93e4xwMe8YRnR/fapPcrcllWiSpUoyZX+L6I78UoQSnKUJ7zc69Ner8ZLWhFG9qF92v5Xod6NKARTY7utUnv96EfAxjEkPB+B9870YVu9KDX0b026f0oiqIoiqLofzWJKUxjBrO2vyM2jBGMYgzjmMi+/v8/df9b+5k26/1Qu/9ZZ70favc/66z3Q+3+Z531fqjd/6yz3g+1+5911vuhdv+zzno/jP0viqIoiqIo+k6p7m9e9stU9zcv+2Wq+5uX/TLV/c3Lfpnq/uZlv0x1f/OyX6a6v3nZL1Pd37zsl1EURVEURdHfyMt+Z30v5WW/s76X8rLfWd9LfQKrQghi
+  </data>
+ </layer>
+</map>

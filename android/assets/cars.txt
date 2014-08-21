@@ -1,0 +1,67 @@
+cars.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car_black_roadster
+  rotate: false
+  xy: 2, 155
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+car_blue
+  rotate: false
+  xy: 2, 2
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+car_blue_small
+  rotate: false
+  xy: 2, 302
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+car_orange
+  rotate: false
+  xy: 2, 53
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+car_red
+  rotate: false
+  xy: 2, 104
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+car_silver_roadster
+  rotate: false
+  xy: 2, 204
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+car_white_roadster
+  rotate: false
+  xy: 2, 253
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+car_white_small
+  rotate: false
+  xy: 2, 341
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+car_yellow_small
+  rotate: false
+  xy: 2, 380
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
